@@ -15,7 +15,7 @@ namespace SampleAPI.DataBaseDbContext
         {
             modelBuilder.Entity<Cities>(entity =>
             {
-                entity.ToTable("Cities", "dbo"); // Replace 'YourSchemaName' with the actual schema
+                entity.ToTable("Cities", "dbo"); 
             });
 
             base.OnModelCreating(modelBuilder);
