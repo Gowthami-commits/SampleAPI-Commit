@@ -286,3 +286,4 @@ C:\Sample Project\SampleAPI_Solution\SampleAPI\bin\Debug\net8.0\runtimes\win\lib
 C:\Sample Project\SampleAPI_Solution\SampleAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Sample Project\SampleAPI_Solution\SampleAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Sample Project\SampleAPI_Solution\SampleAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Sample Project\SampleAPI_Solution\SampleAPI\obj\Debug\net8.0\SampleAPI.sourcelink.json
